@@ -1,0 +1,26 @@
+# Core
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.9.0
+sentencepiece
+tokenizers
+accelerate
+evaluate
+
+# models & training
+seqeval
+rouge-score
+
+# inference & UI
+fastapi
+uvicorn[standard]
+streamlit
+
+# translation
+sacremoses
+
+# utils
+tqdm
+pydantic
+requests
+python-multipart
