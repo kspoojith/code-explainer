@@ -136,5 +136,5 @@ Test API:
 python test_api.py
 ```
 
-![Uploading SoExcited~GIF.gif…]()
+
 
